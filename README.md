@@ -33,5 +33,5 @@ If you maintain a fork of this repository that you believe is healthier than the
 - ESP8266 Core SDK. We recommend using officially tagged releases and it should be at least [2.4.1](https://github.com/esp8266/Arduino/tree/2.4.1)
 
 ## Fingerprint Status Check
-Search fingerpriints for "test.firebaseio.com" [Here](https://www.grc.com/fingerprints.htm )
+Search fingerprints for "test.firebaseio.com" [Here](https://www.grc.com/fingerprints.htm )
 
