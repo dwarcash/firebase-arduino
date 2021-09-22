@@ -39,6 +39,6 @@ class FirebaseHttpClient {
   static const uint16_t kFirebasePort = 443;
 };
 
-static const char kFirebaseFingerprint[] ="50:89:50:57:90:1F:37:E3:B8:F3:5B:02:ED:3A:65:6E:6A:34:DB:93"; // 2020-02
+static const char kFirebaseFingerprint[] ="50:89:50:57:90:1F:37:E3:B8:F3:5B:02:ED:3A:65:6E:6A:34:DB:93"; //>>>>>>>>>>>> Latest Fingerprint Added
 
 #endif  // FIREBASE_HTTP_CLIENT_H
